@@ -5,5 +5,7 @@
 - vypsaný úkol můžu smazat pomocí tlačítka Vymazat úkol
 ## Technologie
 - HTML, CSS a Vanilla JavaScript
+## Odkaz
+https://dostalovamagdalena.github.io/ukolnicek3/
 
 ![Screenshot 2023-05-23 at 14-49-05 Document](https://github.com/dostalovamagdalena/Ukolnicek3/assets/126899248/6ee66605-f3e4-4ebe-9aa6-1132ae84ac41)
